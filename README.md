@@ -105,5 +105,5 @@ AIC: 13998
 - **เดือนที่ติดต่อ:** ลูกค้าที่ได้รับการติดต่อในเดือนมีนาคมและสิงหาคมมีแนวโน้มที่จะสมัครมากขึ้น
 - **เศรษฐกิจ:** เมื่ออัตราการจ้างงานต่ำและดัชนีราคาผู้บริโภคสูง จะมีโอกาสที่ลูกค้าจะสมัครสมาชิกมากขึ้น
 
-
+[visit on website](https://warinthon27.wordpress.com/2025/02/19/data-driven-insights-into-bank-campaign-success-what-drives-subscription-rates/?preview_id=171&preview_nonce=4f570612d8&preview=true&_thumbnail_id=163)
 
